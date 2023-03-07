@@ -1,0 +1,45 @@
+.frame1 {
+  width: 1000px;
+  height: 50px;
+  display: flex;
+  border: 1px solid rgba(0,0,0,0.4);
+  background-color: rgba(0,0,0,0.08);
+}
+
+.frame2 {
+  width: 1000px;
+  height: 50px;
+  display: flex;
+  border-left: 1px solid rgba(0,0,0,0.4);
+  border-right: 1px solid rgba(0,0,0,0.4);
+  border-bottom: 1px solid rgba(0,0,0,0.4);
+}
+
+.num {
+  width: 50px;
+  border-right: 1px solid rgba(0,0,0,0.4);
+}
+
+.title {
+  width: 750px;
+  border-right: 1px solid rgba(0,0,0,0.4);
+}
+
+.addfile {
+  width: 130px;
+  border-right: 1px solid rgba(0,0,0,0.4);
+}
+
+.date {
+  width: 160px;
+  border-right: 1px solid rgba(0,0,0,0.4);
+}
+
+.cnt {
+  width: 110px;
+}
+
+p {
+  opacity: 0.8;
+  text-align: center;
+}
